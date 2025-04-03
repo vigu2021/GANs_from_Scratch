@@ -6,7 +6,7 @@ The goal of this project is educational—it's designed as a hands-on introducti
 
 ## Citation
 
-If you use this project or the original GAN architecture, please cite the following paper:
+This implementation is based on the paper:
 
 Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). Generative adversarial nets. *Advances in Neural Information Processing Systems*, 27. [Link to paper](https://arxiv.org/pdf/1406.2661.pdf).
 
