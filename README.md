@@ -2,7 +2,7 @@
 
 This project implements a **Generative Adversarial Network (GAN)** from scratch using PyTorch. The GAN model is trained on the **MNIST dataset** to generate realistic handwritten digits.
 
-The goal of this project is educational—it's designed as a hands-on introduction to GAN architectures, training dynamics, and implementing in PyTorch
+The goal of this project is educational—it's designed as a hands-on introduction to GAN architectures and implementing in PyTorch
 
 ## Citation
 
