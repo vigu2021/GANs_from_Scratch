@@ -1,13 +1,13 @@
-# GANs from Scratch — Self-Implemented Generative Adversarial Network
+# GANs from Scratch
 
-This repository contains a self-implementation of **Generative Adversarial Networks (GANs)** using **PyTorch**. The project covers:
+This project implements a **Generative Adversarial Network (GAN)** from scratch using PyTorch. The model is trained on the **MNIST dataset** to generate realistic handwritten digits.
 
-- **Generator** and **Discriminator** networks built from scratch with convolutional layers.
-- **Binary Cross Entropy with Logits** loss function for stable GAN training.
-- Training on the **MNIST dataset**, generating realistic handwritten digits.
-- Real-time monitoring of **training and validation losses**.
-- Visualization of generated images at each epoch.
+## Citation
 
-This implementation offers a hands-on approach to understanding the core principles of GANs and is a great starting point for learning generating models
+If you use this work or the original GAN architecture, please cite the following paper:
+
+Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). Generative adversarial nets. *Advances in neural information processing systems*, 27. [Link to paper](https://arxiv.org/pdf/1406.2661.pdf).
+
+
 
 
